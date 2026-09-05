@@ -1,0 +1,6 @@
+{
+  "name": "Teacher's Day Gift for Professors",
+  "description": "An elegant, interactive digital tribute and celebratory gift experience dedicated to college professors on Teacher's Day, featuring personalized letters, citation honors, interactive blackboard memories, and celebratory effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
